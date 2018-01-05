@@ -1,14 +1,12 @@
 WP Facebook Page Likes count
 =====================
-Facebook Page Like Count as Text for WordPress sites/blogs. Please visit http://lineshjose.com/blog/how-to-display-facebook-fans-count-as-text-in-wordpress-site/ to know how to use this script.
+Facebook Page Like Count as Text for WordPress sites/blogs. Please visit https://linesh.com/blog/how-to-display-facebook-fans-count-as-text-in-wordpress-site/ to know how to use this script.
 
 Version : 1.00
 
 Author: Linesh Jose
 
-Url: http://lineshjose.com
-
-Email: lineshjose@gmail.com
+Url: https://linesh.com
 
 Donate:  http://bit.ly/donate-linesh
 
