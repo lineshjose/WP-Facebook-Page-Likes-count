@@ -8,7 +8,7 @@ Author: Linesh Jose
 
 Url: https://linesh.com
 
-Donate:  http://bit.ly/donate-linesh
+Donate:  https://linesh.com/make-a-donation/
 
 github: https://github.com/lineshjose
 
